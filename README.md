@@ -15,7 +15,7 @@ To manually fix the high pixel density display issue in Shapes theme, you requir
    - sections/call-to-action.liquid
    - snippets/block-sticker.liquid
    - snippets/media-image-placeholder.liquid
-   - snippets/media-video.liquid
+   - snippets/media-image.liquid
    - snippets/product-tile-media-image.liquid
    - snippets/static-sticker.liquid
 
